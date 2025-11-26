@@ -52,6 +52,7 @@ expensebook/
 ```bash
 git clone https://github.com/<your-username>/expensebook.git
 cd expensebook
+```
 
 ### 2. Setup Backend (ASP.NET Core)
 ```bash
