@@ -59,3 +59,11 @@ cd expensebook
 cd backend
 dotnet restore
 dotnet run
+```
+
+### 3. Setup Frontend (Angular)
+```
+cd frontend
+npm install
+ng serve -o
+```
