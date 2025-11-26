@@ -39,11 +39,11 @@ Built for learning full-stack development using **Angular**, **ASP.NET Core Web 
 ## 📁 Project Structure
 
 expensebook/
-├── backend/ # .NET API
-├── frontend/ # Angular UI
-├── docs/ # Architecture, ER diagrams, notes
-├── infra/ # Azure deployment configs
-└── README.md
+- ├── backend/ # .NET API
+- ├── frontend/ # Angular UI
+- ├── docs/ # Architecture, ER diagrams, notes
+- ├── infra/ # Azure deployment configs
+- └── README.md
 ---
 
 ## 🧪 Setup Instructions
