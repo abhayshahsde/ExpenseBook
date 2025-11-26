@@ -62,7 +62,7 @@ dotnet run
 ```
 
 ### 3. Setup Frontend (Angular)
-```
+```bash
 cd frontend
 npm install
 ng serve -o
