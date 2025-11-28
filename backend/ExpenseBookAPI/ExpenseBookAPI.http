@@ -1,0 +1,6 @@
+@ExpenseBookAPI_HostAddress = http://localhost:5062
+
+GET {{ExpenseBookAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
